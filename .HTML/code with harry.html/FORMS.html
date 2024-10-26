@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title>
+</head>
+
+<body>
+    <h2>This is HTML form tutorial</h2>
+    <form action="backend.php">
+        <label for="name">Name:</label>
+        <div>
+            <input type="text" name="My Name" id="name">
+        </div>
+        <label for="my role">Role</label>
+        <br>
+        <div>
+            <input type="text" name="My Roll" id="my role">
+        </div>
+        <br>
+        <label for="my email address">Email:</label>
+        <div>
+            <input type="email" name="My email ID" id="my email address">
+        </div>
+        <br>
+        <label for="Date">Date</label>
+        <div>
+            <input type="date" name="Date" id="Date">
+        </div>
+        <br>
+        <div>
+            My Bonus: <input type="number" name="bonus" id="bonus">
+        </div>
+        <br>
+        <div>
+            <label for="terms and conditions">I accept the terms and conditions: </label>
+            <input type="checkbox" name="I accept the terms and conditions" id="terms and conditions">
+        </div>
+        <br>
+        <div>
+            <label for="check box">I accept the terms and conditions: </label>
+            <input type="checkbox" name="I accept the terms and conditions" CHECKED id="check box">
+        </div>
+        <br>
+        <div>
+            My Bonus: <input type="radio" name="My Gender">Male <input type="radio" name="My Gender">FeMale <input
+                type="radio" name="My Gender">other
+        </div>
+        <br>
+        <div>
+            My intro: <br><textarea name="Introduction" id="" cols="90" rows="5"></textarea>
+        </div>
+        <br>
+        <div>
+            <label for="car">choose car manufacturer</label>
+            <select name="car manufacturer" id="car">
+                <option value="select" selected>Choose an option</option>
+                <option value="Toyo">Toyota</option>
+                <option value="Suzu">Suzuki</option>
+                <option value="Mits">Mitsubishi</option>
+                <option value="land">land rover</option>
+            </select>
+        </div>
+        <div>
+            <input type="submit" value="click to submit">
+            <input type="reset" value="reset">
+        </div>
+    </form>
+</body>
+
+</html>

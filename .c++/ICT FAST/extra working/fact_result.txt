@@ -1,0 +1,5 @@
+This is Factorial of 1= 1
+This is Factorial of 2= 2
+This is Factorial of 3= 6
+This is Factorial of 4= 24
+This is Factorial of 5= 120
