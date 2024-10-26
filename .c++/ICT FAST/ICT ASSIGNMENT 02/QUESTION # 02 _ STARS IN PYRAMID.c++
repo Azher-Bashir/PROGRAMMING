@@ -1,5 +1,5 @@
 // QUESTION # 02 _ Write a C++ program that uses nested loops to print a pattern of stars in
-//  the shape of a triangle. Explain why are nested loops necessary for this task?
+//  the shape of a triangle. Explain why are nested loops necessary for this tasks?
 
 #include <iostream>
 #include <cmath>
