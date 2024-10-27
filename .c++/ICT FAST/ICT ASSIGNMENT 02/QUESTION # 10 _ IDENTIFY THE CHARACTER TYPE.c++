@@ -25,55 +25,62 @@ int main()
     case 'U':
         cout << "The character is a vowel.";
         break;
-    case 'b':
-    case 'c':
-    case 'd':
-    case 'f':
-    case 'g':
-    case 'h':
-    case 'j':
-    case 'k':
-    case 'l':
-    case 'm':
-    case 'n':
-    case 'p':
-    case 'q':
-    case 'r':
-    case 's':
-    case 't':
-    case 'v':
-    case 'w':
-    case 'x':
-    case 'y':
-    case 'z':
-        cout << "The character is a consonant.";
-        break;
-    case 'B':
-    case 'C':
-    case 'D':
-    case 'F':
-    case 'G':
-    case 'H':
-    case 'J':
-    case 'K':
-    case 'L':
-    case 'M':
-    case 'N':
-    case 'P':
-    case 'Q':
-    case 'R':
-    case 'S':
-    case 'T':
-    case 'V':
-    case 'W':
-    case 'X':
-    case 'Y':
-    case 'Z':
-        cout << "The character is a consonant.";
-        break;
     default:
-        cout << "The character is a special character.";
-        break;
+        if ((ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z'))
+        {
+            cout << ch << " is a character." << endl;
+        }
+        else 
+        cout << ch << " is a speacial character." << endl;
+        // case 'b':
+        // case 'c':
+        // case 'd':
+        // case 'f':
+        // case 'g':
+        // case 'h':
+        // case 'j':
+        // case 'k':
+        // case 'l':
+        // case 'm':
+        // case 'n':
+        // case 'p':
+        // case 'q':
+        // case 'r':
+        // case 's':
+        // case 't':
+        // case 'v':
+        // case 'w':
+        // case 'x':
+        // case 'y':
+        // case 'z':
+        //     cout << "The character is a consonant.";
+        //     break;
+        // case 'B':
+        // case 'C':
+        // case 'D':
+        // case 'F':
+        // case 'G':
+        // case 'H':
+        // case 'J':
+        // case 'K':
+        // case 'L':
+        // case 'M':
+        // case 'N':
+        // case 'P':
+        // case 'Q':
+        // case 'R':
+        // case 'S':
+        // case 'T':
+        // case 'V':
+        // case 'W':
+        // case 'X':
+        // case 'Y':
+        // case 'Z':
+        //     cout << "The character is a consonant.";
+        //     break;
+        // default:
+        //     cout << "The character is a special character.";
+        //     break;
     }
     // system("pause");
     return 0;

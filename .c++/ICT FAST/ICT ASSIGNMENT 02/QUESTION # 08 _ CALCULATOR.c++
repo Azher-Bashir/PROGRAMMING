@@ -44,6 +44,6 @@ int main()
             cout << "Error! mod by zero is not allowed." << endl;
         break;
     }
-    system("break");
+    system("pause");
     return 0;
 }
