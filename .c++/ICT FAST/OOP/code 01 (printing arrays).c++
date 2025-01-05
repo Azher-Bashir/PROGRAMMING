@@ -1,3 +1,6 @@
+//Taking lenght of arrays form the user and taking input from the user from 
+//the user and printing the number of the array that the user wants to print
+
 #include <iostream>
 
 using namespace std;
