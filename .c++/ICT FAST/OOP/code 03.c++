@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int binary_search(int arr[], int n, int num)
+static int binary_search(int array[], int n, int num)
 {
     int strt = 0, end = n;
 
@@ -10,11 +10,11 @@ int binary_search(int arr[], int n, int num)
     {
         int mid = end / 2;
 
-        if (arr[mid] == num)
+        if (array[mid] == num)
         {
             return mid;
         }
-        else if (arr[mid] < num)
+        else if (array[mid] < num)
         {
             end = mid + 1;
         }
@@ -26,12 +26,14 @@ int binary_search(int arr[], int n, int num)
 
 int main()
 {
-    int n, arr[n];
+    int n;
 
     cout << "Enter the length of the array: ";
     cin >> n;
 
-    for (int i = 0; i < n; i++)
+    int arr[n];
+
+    for (int i = 1; i <= n; i++)
     {
         cout << "Enter the element at index " << i << ": ";
         cin >> arr[i];

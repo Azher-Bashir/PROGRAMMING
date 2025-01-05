@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/PROGRAMMING UNI/VS CODE/PROGRAMMING/.c++/ICT FAST/OOP",
-      "program": "d:/PROGRAMMING UNI/VS CODE/PROGRAMMING/.c++/ICT FAST/OOP/build/Debug/outDebug",
+      "cwd": "d:/PROGRAMMING UNI/VS CODE/PROGRAMMING/.c++/ICT FAST/ICT LAB TASK/lab 9",
+      "program": "d:/PROGRAMMING UNI/VS CODE/PROGRAMMING/.c++/ICT FAST/ICT LAB TASK/lab 9/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
