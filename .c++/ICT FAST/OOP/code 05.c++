@@ -50,6 +50,8 @@ int main()
     cout << endl;
     bubble_sorting(arr, n);
     output(arr, n);
-    
+    cout << endl;
+    cout << "Size of arary is tha you enterd is: " << sizeof(arr) / sizeof(int) << endl;
+
     return 0;    
 }
