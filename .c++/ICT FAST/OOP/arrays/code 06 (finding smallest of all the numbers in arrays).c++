@@ -18,7 +18,14 @@ void smallest_of_all(int arr[], int n)
 
 void largest_of_all(int arr[], int n)
 {
-    
+    for (int i = 0; i < n; i++)
+    {
+        if (arr[i] > largest)
+        {
+            largest = arr[i];
+        }
+    }
+    cout << "The largest of all the numbers enters in tha array is: " << largest << endl;
 }
 
 int main()
@@ -35,5 +42,6 @@ int main()
     }
 
     smallest_of_all(arr, n);
+    largest_of_all(arr, n);
     return 0;
 }
