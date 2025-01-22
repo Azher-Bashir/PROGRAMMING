@@ -52,6 +52,6 @@ int main()
     output(arr, n);
     cout << endl;
     cout << "Size of arary is tha you enterd is: " << sizeof(arr) / sizeof(int) << endl;
-
+    
     return 0;    
 }

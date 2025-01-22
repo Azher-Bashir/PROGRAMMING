@@ -60,5 +60,6 @@
     "iostream": "cpp",
     "ostream": "cpp"
   },
-  "liveServer.settings.port": 5501
+  "liveServer.settings.port": 5501,
+  "javascript.referencesCodeLens.enabled": true
 }

@@ -1,3 +1,5 @@
+//Findin th smallest and the largest of  all the numbers.
+
 #include <iostream>
 
 using namespace std;
@@ -43,5 +45,6 @@ int main()
 
     smallest_of_all(arr, n);
     largest_of_all(arr, n);
+
     return 0;
 }
