@@ -17,12 +17,12 @@ int main()
     // }
     int arr[5] = {1, 2, 3, 4, 5};
 
-    int *a;
-    *a = arr[2];
+    int* ptr = &arr[4];
+    // cout << &ptr << endl;
 
-    // cout << &a << endl;
-    cout << a << endl;
-    cout << *a << endl;
+    cout << &ptr << endl;
+    cout << ptr << endl;
+    cout << *ptr << endl;
 
     return 0;
 
