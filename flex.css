@@ -1,0 +1,43 @@
+.main{
+    display: flex;
+    flex-direction: row;
+    height: 60px;
+    width: 500px;
+    background-color: black;
+    color: aliceblue;
+}
+
+.a1{
+    flex: 1;
+  
+}
+.a2{
+    margin-top: 2%;
+    flex:2;
+}
+.a3{
+    flex: 1;
+    font-size: 10;
+    padding: ;
+    display: flex;
+    width: 1fr;
+   
+    flex-direction: row;
+
+}
+button{
+    flex: 1;height: 50%;
+    margin-top: 10%;
+    background-color: aliceblue;
+    border: none;
+    border-radius: 50%;
+
+}
+.y{
+    margin-left:20px ;
+}
+.a21{
+    color: grey;
+    font-family: roboto;
+    padding-left: 4px;
+}

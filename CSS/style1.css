@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.red{
+    /* if you want to use alpha then you have to write rgba for example: */
+    /* where alpha is the opacity of the color... */
+    background-color: rgb(173, 247, 229, 0.511);
+    color: darkgreen;
+}
+.green{
+    background-color: rgb(255, 225, 0);
+    color: indigo;W
+}
