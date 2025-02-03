@@ -61,5 +61,7 @@
     "ostream": "cpp"
   },
   "liveServer.settings.port": 5501,
-  "javascript.referencesCodeLens.enabled": true
+  "javascript.referencesCodeLens.enabled": true,
+  "editor.wordWrap": "on",
+  "diffEditor.wordWrap": "on"
 }

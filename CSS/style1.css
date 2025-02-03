@@ -1,4 +1,6 @@
+/* background-image: url('scientific.jpg'); */
 *{
+    /* background-image: url('scientific.jpg') no-repeat; */
     margin: 0;
     padding: 0;
 }
@@ -11,5 +13,12 @@
 }
 .green{
     background-color: rgb(255, 225, 0);
-    color: indigo;W
+    color: indigo;
+    /* background-image: url('scientific.jpg'); */
+}
+body{
+    background-image: url('scientific.jpg');
+    background-size: cover;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
 }
