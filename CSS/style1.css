@@ -18,7 +18,8 @@
 }
 body{
     background-image: url('scientific.jpg');
-    background-size: auto;
-    background-repeat: repeat-y;
-    background-attachment: fixed;
+    background-size: contain;
+    /* background-size: repeat; */
+    background-repeat: repeat;
+    background-attachment: scroll;
 }
