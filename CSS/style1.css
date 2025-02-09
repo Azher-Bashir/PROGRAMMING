@@ -9,17 +9,26 @@
     /* if you want to use alpha then you have to write rgba for example: */
     /* where alpha is the opacity of the color... */
     background-color: rgb(173, 247, 229, 0.511);
-    color: darkgreen;
+    color: rgb(251, 251, 251);
 }
 .green{
     background-color: rgb(255, 225, 0);
     color: indigo;
     /* background-image: url('scientific.jpg'); */
 }
+.blue.paragraph{
+background-color: rgba(30, 240, 121, 0.422);
+color: white;
+}
+.paragraph{
+background-color: rgb(174, 75, 75);
+color: white;
+}
+
 body{
     background-image: url('scientific.jpg');
     background-size: contain;
-    /* background-size: repeat; */
+    background-size: repesat;
     background-repeat: repeat;
-    background-attachment: scroll;
+    /* background-attachment: fixed; */
 }
