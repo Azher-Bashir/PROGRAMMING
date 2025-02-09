@@ -1,0 +1,29 @@
+D:\PROGRAMMING UNI\VS CODE\PROGRAMMING\cs\First code\obj\Debug\net9.0\First code.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMMING UNI\VS CODE\PROGRAMMING\cs\First code\obj\Debug\net9.0\First code.AssemblyInfoInputs.cache
+D:\PROGRAMMING UNI\VS CODE\PROGRAMMING\cs\First code\obj\Debug\net9.0\First code.AssemblyInfo.cs
+D:\PROGRAMMING UNI\VS CODE\PROGRAMMING\cs\First code\obj\Debug\net9.0\First code.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING UNI\VS CODE\PROGRAMMING\cs\First code\obj\Debug\net9.0\First code.MvcApplicationPartsAssemblyInfo.cache
+D:\PROGRAMMING UNI\VS CODE\PROGRAMMING\cs\First code\obj\Debug\net9.0\First code.sourcelink.json
+D:\PROGRAMMING UNI\VS CODE\PROGRAMMING\cs\First code\bin\Debug\net9.0\appsettings.Development.json
+D:\PROGRAMMING UNI\VS CODE\PROGRAMMING\cs\First code\bin\Debug\net9.0\appsettings.json
+D:\PROGRAMMING UNI\VS CODE\PROGRAMMING\cs\First code\bin\Debug\net9.0\First code.staticwebassets.endpoints.json
+D:\PROGRAMMING UNI\VS CODE\PROGRAMMING\cs\First code\bin\Debug\net9.0\First code.exe
+D:\PROGRAMMING UNI\VS CODE\PROGRAMMING\cs\First code\bin\Debug\net9.0\First code.deps.json
+D:\PROGRAMMING UNI\VS CODE\PROGRAMMING\cs\First code\bin\Debug\net9.0\First code.runtimeconfig.json
+D:\PROGRAMMING UNI\VS CODE\PROGRAMMING\cs\First code\bin\Debug\net9.0\First code.dll
+D:\PROGRAMMING UNI\VS CODE\PROGRAMMING\cs\First code\bin\Debug\net9.0\First code.pdb
+D:\PROGRAMMING UNI\VS CODE\PROGRAMMING\cs\First code\obj\Debug\net9.0\scopedcss\bundle\First code.styles.css
+D:\PROGRAMMING UNI\VS CODE\PROGRAMMING\cs\First code\obj\Debug\net9.0\staticwebassets.build.json
+D:\PROGRAMMING UNI\VS CODE\PROGRAMMING\cs\First code\obj\Debug\net9.0\staticwebassets.development.json
+D:\PROGRAMMING UNI\VS CODE\PROGRAMMING\cs\First code\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\PROGRAMMING UNI\VS CODE\PROGRAMMING\cs\First code\obj\Debug\net9.0\staticwebassets\msbuild.First code.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PROGRAMMING UNI\VS CODE\PROGRAMMING\cs\First code\obj\Debug\net9.0\staticwebassets\msbuild.First code.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\PROGRAMMING UNI\VS CODE\PROGRAMMING\cs\First code\obj\Debug\net9.0\staticwebassets\msbuild.build.First code.props
+D:\PROGRAMMING UNI\VS CODE\PROGRAMMING\cs\First code\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.First code.props
+D:\PROGRAMMING UNI\VS CODE\PROGRAMMING\cs\First code\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.First code.props
+D:\PROGRAMMING UNI\VS CODE\PROGRAMMING\cs\First code\obj\Debug\net9.0\staticwebassets.pack.json
+D:\PROGRAMMING UNI\VS CODE\PROGRAMMING\cs\First code\obj\Debug\net9.0\First code.dll
+D:\PROGRAMMING UNI\VS CODE\PROGRAMMING\cs\First code\obj\Debug\net9.0\refint\First code.dll
+D:\PROGRAMMING UNI\VS CODE\PROGRAMMING\cs\First code\obj\Debug\net9.0\First code.pdb
+D:\PROGRAMMING UNI\VS CODE\PROGRAMMING\cs\First code\obj\Debug\net9.0\First code.genruntimeconfig.cache
+D:\PROGRAMMING UNI\VS CODE\PROGRAMMING\cs\First code\obj\Debug\net9.0\ref\First code.dll

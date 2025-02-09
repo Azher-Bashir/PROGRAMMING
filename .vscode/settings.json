@@ -63,5 +63,6 @@
   "liveServer.settings.port": 5501,
   "javascript.referencesCodeLens.enabled": true,
   "editor.wordWrap": "on",
-  "diffEditor.wordWrap": "on"
+  "diffEditor.wordWrap": "on",
+  "dotnet.defaultSolution": "First code.sln"
 }
