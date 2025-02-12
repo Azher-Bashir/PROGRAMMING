@@ -9,6 +9,7 @@ static int search(int arr[], int n, int num)
         if (arr[i] == num)
         {
             return i;
+            // cout << "The number you entered is available at the position " << i;
         }
     }
     return -1;
