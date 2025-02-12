@@ -1,4 +1,4 @@
-// This is selection sorting.
+// This is Bubble sorting.
 
 #include <iostream>
 
