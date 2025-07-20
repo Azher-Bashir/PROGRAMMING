@@ -3,7 +3,7 @@
 #include <cmath>
 #include <string>
 using namespace std;
-// just testing outs
+
 int main()
 {
     ifstream file_read;
